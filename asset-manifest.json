@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-list-crud-react-redux/static/css/main.9efb5ec8.css",
+    "main.js": "/todo-list-crud-react-redux/static/js/main.6b2717a9.js",
+    "index.html": "/todo-list-crud-react-redux/index.html",
+    "main.9efb5ec8.css.map": "/todo-list-crud-react-redux/static/css/main.9efb5ec8.css.map",
+    "main.6b2717a9.js.map": "/todo-list-crud-react-redux/static/js/main.6b2717a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9efb5ec8.css",
+    "static/js/main.6b2717a9.js"
+  ]
+}
